@@ -40,3 +40,16 @@ When planning personal or team work in an AI-augmented setting:
 - Treating multitasking capacity as a goal rather than a side effect of better tools.
 - Allowing constant model novelty to create a sense that "everything important is already done."
 - Spreading attention so thinly that no single constraint is ever truly relaxed.
+
+## KPI / Signs the skill is working
+
+This skill is a perspective and attention director, not a rigid contract. Evaluate it by whether deep attention is protected and concentrated.
+
+| KPI | Good sign | Bad sign |
+|-----|-----------|----------|
+| Concentration | One high-value hard problem is clearly named and receives the bulk of deep time | Many parallel threads, none progressing deeply |
+| Attention protection | Secondary work is actively deferred or cut to protect deep blocks | Calendar and focus are fragmented by "just one more" AI-assisted side tasks |
+| AI tool usage quality | AI is used to accelerate the main problem (code, experiments, literature) | AI is used mainly to open new parallel projects |
+| Calibrated wonder | Remaining frontier problems are still named specifically and treated as real | Sense that "the important parts are already solved" |
+
+Meta signals: higher expected value per unit of deep attention, fewer half-finished threads, and sustained intellectual engagement with unsolved problems.
